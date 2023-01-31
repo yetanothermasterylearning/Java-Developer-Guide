@@ -16,44 +16,44 @@
 	- Intellij IDEA (or) Eclipse
 - Build Management Tool
 	- Maven (or) Gradle
-4. Version controller Tool
+- Version controller Tool
 	- Git
-5. Relational Database
+- Relational Database
 	- Mysql(Preferable) or PostgreSql
-6. NoSQL Database
+- NoSQL Database
 	- Mongodb (or) Cassandra
-7. Spring framework core concepts
+- Spring framework core concepts
 	- IOC
 	- Dependency injection
 	- XML configuration (basics)
 	- Spring annotations
-8. SpringBoot framework
-9. ORM tool
+- SpringBoot framework
+- ORM tool
 	- Hibernate basics
 	- SpringBoot data
-10. Microservice API design
+- Microservice API design
 	- SOAP basics(No need of coding)
 	- SpringBoot rest
-11. SpringBoot Security 
+- SpringBoot Security 
 	- Basic authentication
 	- JWT
 	- OAuth/OpenId authentication
-12. Java design patterns
-13. Architecutre patterns
+- Java design patterns
+- Architecutre patterns
 	- Monolithic
 	- Service oriented
 	- Microservice
-14. Unit testing
+- Unit testing
 	- JUnit
 	- Mockito
-15. Logging
+- Logging
 	- log4j
-16. (Optional) Utilities
+- (Optional) Utilities
 	- Apache utilities
-17. Cloud basics
+- Cloud basics
 	- (Preferable) AWS => EC2, S3 bucket, Lambda, DynamoDB
 	- Azure => VM, Azure data storage, Functional programming, CosmosDB
-18. Extra
+- Extra
 	- Cluster management
 		- Docker and kubernetes
 	- Messaging System
