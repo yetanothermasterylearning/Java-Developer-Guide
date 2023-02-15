@@ -6,12 +6,12 @@
 	4. Multi threading
 	5. Input and Output streaming
 	6. Java 8
-		a. Functional programming
-		b. Lambda Expressions
-		c. Functional interface
-		d. Stream API
-		e. Optional
-		f. Date and Time API
+		1. Functional programming
+		2. Lambda Expressions
+		3. Functional interface
+		4. Stream API
+		5. Optional
+		6. Date and Time API
 - IDE
 	1. Intellij IDEA (or) Eclipse
 - Build Management Tool
@@ -52,9 +52,15 @@
 	1. Apache utilities
 - Cloud basics
 	1. (Preferable) AWS 
-		a. EC2, S3 bucket, Lambda, DynamoDB
+		1. EC2
+		2. S3
+		3. Lambda
+		4. DynamoDB
 	2. Azure 
-		a. VM, Azure data storage, Functional programming, CosmosDB
+		1. VM
+		2. Azure data storage
+		3. Functional programming
+		4. CosmosDB
 - Extra
 	1. Cluster management
 		a. Docker and kubernetes
