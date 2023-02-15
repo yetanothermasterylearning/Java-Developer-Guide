@@ -1,62 +1,64 @@
 ## Java Developer path ##
 - Core Java
-	OOPS
-	Collection
-	Exception handling
-	Multi threading
-	Input and Output streaming
-	Java 8
-		- Functional programming
-		- Lambda Expressions
-		- Functional interface
-		- Stream API
-		- Optional
-		- Date and Time API
+	1. OOPS
+	2. Collection
+	3. Exception handling
+	4. Multi threading
+	5. Input and Output streaming
+	6. Java 8
+		a. Functional programming
+		b. Lambda Expressions
+		c. Functional interface
+		d. Stream API
+		e. Optional
+		f. Date and Time API
 - IDE
-	- Intellij IDEA (or) Eclipse
+	1. Intellij IDEA (or) Eclipse
 - Build Management Tool
-	- Maven (or) Gradle
+	1. Maven (or) Gradle
 - Version controller Tool
-	- Git
+	1. Git
 - Relational Database
-	- Mysql(Preferable) or PostgreSql
+	1. Mysql(Preferable) or PostgreSql
 - NoSQL Database
-	- Mongodb (or) Cassandra
+	1. Mongodb (or) Cassandra
 - Spring framework core concepts
-	- IOC
-	- Dependency injection
-	- XML configuration (basics)
-	- Spring annotations
+	1. IOC
+	2. Dependency injection
+	3. XML configuration (basics)
+	4. Spring annotations
 - SpringBoot framework
 - ORM tool
-	- Hibernate basics
-	- SpringBoot data
+	1. Hibernate basics
+	2. SpringBoot data
 - Microservice API design
-	- SOAP basics(No need of coding)
-	- SpringBoot rest
+	1. SOAP basics(No need of coding)
+	2. SpringBoot rest
 - SpringBoot Security 
-	- Basic authentication
-	- JWT
-	- OAuth/OpenId authentication
+	1. Basic authentication
+	2. JWT
+	3. OAuth/OpenId authentication
 - Java design patterns
 - Architecutre patterns
-	- Monolithic
-	- Service oriented
-	- Microservice
+	1. Monolithic
+	2. Service oriented
+	3. Microservice
 - Unit testing
-	- JUnit
-	- Mockito
+	1. JUnit
+	2. Mockito
 - Logging
-	- log4j
+	1. log4j
 - (Optional) Utilities
-	- Apache utilities
+	1. Apache utilities
 - Cloud basics
-	- (Preferable) AWS => EC2, S3 bucket, Lambda, DynamoDB
-	- Azure => VM, Azure data storage, Functional programming, CosmosDB
+	1. (Preferable) AWS 
+		a. EC2, S3 bucket, Lambda, DynamoDB
+	2. Azure 
+		a. VM, Azure data storage, Functional programming, CosmosDB
 - Extra
-	- Cluster management
-		- Docker and kubernetes
-	- Messaging System
-		- Kafka
-	- Deployment basics
-		- Jenkins
+	1. Cluster management
+		a. Docker and kubernetes
+	2. Messaging System
+		b. Kafka
+	3. Deployment basics
+		c. Jenkins
